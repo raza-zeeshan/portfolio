@@ -686,7 +686,7 @@ li {
 /****************** parallex properties**************** */
 
 .parallex {
-    background-image: url("../image/pexels-pixabay-414974.jpg");
+    background-image: url("pexels-pixabay-414974.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
     background-attachment: fixed;
