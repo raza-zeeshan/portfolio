@@ -101,7 +101,5 @@ Tip: scripts are loaded with `defer` in [index.html](index.html) so JS runs afte
 - Icons from Ionicons (loaded in [index.html](index.html))
 - Form handling via Formspree URL present in [index.html](index.html)
 
-## License
-- Add a license file (e.g., MIT) if you intend to open-source this project.
 
 ---
