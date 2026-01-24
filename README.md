@@ -97,7 +97,7 @@ Tip: scripts are loaded with `defer` in [index.html](index.html) so JS runs afte
 - Run visual checks across major viewports when updating styles or layout.
 
 ## Author & Credits
-- Author: Zeeshan Raza (contact in the footer of [index.html](index.html))
+- Author: Zeeshan Raza
 - Icons from Ionicons (loaded in [index.html](index.html))
 - Form handling via Formspree URL present in [index.html](index.html)
 
