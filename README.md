@@ -98,8 +98,5 @@ Tip: scripts are loaded with `defer` in [index.html](index.html) so JS runs afte
 
 ## Author & Credits
 - Author: Zeeshan Raza
-- Icons from Ionicons (loaded in [index.html](index.html))
-- Form handling via Formspree URL present in [index.html](index.html)
-
-
+- Made with ❤️
 ---
