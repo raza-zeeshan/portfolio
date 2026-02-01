@@ -2,8 +2,6 @@
 
 A responsive portfolio website built with plain HTML, CSS and JavaScript to showcase projects, skills, academics and contact information.
 
-Live preview: open [index.html](index.html).
-
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
