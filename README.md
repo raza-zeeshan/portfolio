@@ -90,9 +90,11 @@ Tip: scripts are loaded with `defer` in [index.html](index.html) so JS runs afte
 - Deployment
   - Host on GitHub Pages or Netlify and add a production-ready manifest and favicon set.
 
+
 ## Contributing
 - Fork the repo, create a branch, open a PR describing your changes.
 - Run visual checks across major viewports when updating styles or layout.
+
 
 ## Author & Credits
 - Author: Zeeshan Raza
