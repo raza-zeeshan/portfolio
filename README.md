@@ -11,10 +11,8 @@ A responsive portfolio website built with plain HTML, CSS and JavaScript to show
 - [Known issues & Improvements](#known-issues--improvements)
 - [License & Author](#license--author)
 
-
 ## Overview
 This repository contains a single-page portfolio site (with a few additional pages). It is built without frameworks and demonstrates responsive layout, simple animations, lazy-loading images, and small UI widgets.
-
 
 ## Features
 - Responsive layout (desktop → mobile)
