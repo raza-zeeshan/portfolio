@@ -53,7 +53,9 @@ This repository contains a single-page portfolio site (with a few additional pag
    - VS Code Live Server default port is configured in [.vscode/settings.json](.vscode/settings.json) as 5501.
 3. No build step required — plain static assets.
 
+
 Tip: scripts are loaded with `defer` in [index.html](index.html) so JS runs after DOM parsing.
+
 
 ## Behavior & Implementation Notes
 - Sticky header
