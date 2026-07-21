@@ -47,6 +47,7 @@ This repository contains a single-page portfolio site (with a few additional pag
   - [about.html](about.html)
   - [contact.html](contact.html)
 
+
 ## How to run locally
 1. Open the project folder in VS Code.
 2. Use Live Server extension or open [index.html](index.html) in your browser.
@@ -54,6 +55,7 @@ This repository contains a single-page portfolio site (with a few additional pag
 3. No build step required — plain static assets.
 
 Tip: scripts are loaded with `defer` in [index.html](index.html) so JS runs after DOM parsing.
+
 
 ## Behavior & Implementation Notes
 - Sticky header
