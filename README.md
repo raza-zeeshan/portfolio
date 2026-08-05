@@ -56,7 +56,6 @@ This repository contains a single-page portfolio site (with a few additional pag
 
 Tip: scripts are loaded with `defer` in [index.html](index.html) so JS runs after DOM parsing.
 
-
 ## Behavior & Implementation Notes
 - Sticky header
   - The IntersectionObserver watching [`heroSection`](index.js) toggles the `sticky` class on `body` for a compact fixed header when the hero leaves viewport.
