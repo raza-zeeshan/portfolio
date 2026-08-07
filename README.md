@@ -47,7 +47,6 @@ This repository contains a single-page portfolio site (with a few additional pag
   - [about.html](about.html)
   - [contact.html](contact.html)
 
-
 ## How to run locally
 1. Open the project folder in VS Code.
 2. Use Live Server extension or open [index.html](index.html) in your browser.
